@@ -8,7 +8,7 @@ const props = defineProps({
 })
 const emit = defineEmits(['start'])
 
-const MIN_AGE = 7
+const MIN_AGE = 6
 const error = ref('')
 
 function start() {
@@ -64,7 +64,7 @@ function start() {
         </div>
         <div class="field rise" style="--i: 3">
           <label for="age">Usia Anak</label>
-          <input id="age" v-model="identity.age" type="number" :min="MIN_AGE" inputmode="numeric" class="input" placeholder="Minimal 7 tahun" />
+          <input id="age" v-model="identity.age" type="number" :min="MIN_AGE" inputmode="numeric" class="input" placeholder="Minimal 6 tahun" />
         </div>
       </div>
 

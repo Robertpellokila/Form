@@ -74,7 +74,7 @@ function reset() {
       </div>
       <div>
         <div class="brand-title">Petualangan Bakat</div>
-        <div class="brand-sub">Tes minat &amp; bakat anak usia 7 tahun ke atas</div>
+        <div class="brand-sub">Tes minat &amp; bakat anak usia 6 tahun ke atas</div>
       </div>
     </header>
 
